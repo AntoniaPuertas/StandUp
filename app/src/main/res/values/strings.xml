@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stand Up!</string>
+    <string name="alarma_desactivada">Alarma Off</string>
+    <string name="alarma_activada">Alarma On</string>
+    <string name="alarma_encendida">Levanta, alarma encendida</string>
+    <string name="alarma_apagada">Levanta, alarma apagada</string>
+</resources>
